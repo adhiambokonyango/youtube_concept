@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "450789391091",
+    "firebase_url": "https://driver-fd1a1-default-rtdb.firebaseio.com",
+    "project_id": "driver-fd1a1",
+    "storage_bucket": "driver-fd1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450789391091:android:6cb9274ac50aef0e3e1586",
+        "android_client_info": {
+          "package_name": "com.example.youtube_concept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450789391091-8p9bnnkgk0oqq081cv430uccc0kcsbk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFMzA9C9aL4xwXJl0F5IXMYJbn_ZItVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450789391091-8p9bnnkgk0oqq081cv430uccc0kcsbk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450789391091:android:a82ff627b7a38a8e3e1586",
+        "android_client_info": {
+          "package_name": "ke.posta.postadriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450789391091-8p9bnnkgk0oqq081cv430uccc0kcsbk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFMzA9C9aL4xwXJl0F5IXMYJbn_ZItVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450789391091-8p9bnnkgk0oqq081cv430uccc0kcsbk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
